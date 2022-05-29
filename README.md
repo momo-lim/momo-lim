@@ -1,10 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=250&animation=fadeIn&text=Welcome&desc=Hyeonmo`s%20GitHub%20Profile&fontAlign=50&descAlign=57&fontAlignY=40&color=gradient)
 
-### :star2:Tech Stack:star2:
 
 
-
-<h3 align="center">:star2:Tech Stack</h3>
+<h3 align="center">:star2:Tech Stack:star2:</h3>
 
 <div align="center">
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
@@ -15,6 +13,7 @@
 <div align="center">
     <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">
     <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=white">
+    <img src="https://img.shields.io/badge/styled-components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white">
 </div>
 <div align="center">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
@@ -25,7 +24,7 @@
 
 
 
-<h3 align="center">Cowork tools</h3>
+<h3 align="center">:star2:Cowork tools:star2:</h3>
 
 <div align="center">
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white">
